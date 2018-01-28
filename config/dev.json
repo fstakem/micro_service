@@ -1,0 +1,9 @@
+{
+    "app_name": "midmod",
+    "version": "0.0.1",
+    "db_user": "midmod_user",
+    "db_host": "localhost",
+    "db_name": "midmod_dev",
+    "upload_folder": "/home/fred_stakem/projects/micro_service/micro_service/test/upload",
+    "allowed_file_ext": ["txt"]
+}

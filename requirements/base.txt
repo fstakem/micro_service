@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-restful
+flask-seasurf
+flask-cors
+psycopg2
+sqlalchemy
+alembic
+celery
